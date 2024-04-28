@@ -1,0 +1,61 @@
+C:\Users\jesto\source\repos\Books_InfoSystem\Books_InfoSystem\bin\Debug\Books_InfoSystem.exe.config
+C:\Users\jesto\source\repos\Books_InfoSystem\Books_InfoSystem\bin\Debug\Books_InfoSystem.exe
+C:\Users\jesto\source\repos\Books_InfoSystem\Books_InfoSystem\bin\Debug\Books_InfoSystem.pdb
+C:\Users\jesto\source\repos\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.csproj.AssemblyReference.cache
+C:\Users\jesto\source\repos\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.Properties.Resources.resources
+C:\Users\jesto\source\repos\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.csproj.GenerateResource.cache
+C:\Users\jesto\source\repos\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.csproj.CoreCompileInputs.cache
+C:\Users\jesto\source\repos\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.exe
+C:\Users\jesto\source\repos\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.pdb
+C:\Users\jesto\source\repos\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.LogIn.resources
+C:\Users\jesto\source\repos\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.SignUp.resources
+C:\Users\jesto\source\repos\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.Dashboard.resources
+C:\Users\jesto\source\repos\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.Author.resources
+C:\Users\jesto\source\repos\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.Genre.resources
+C:\Users\jesto\source\repos\Books_InfoSystem\Books_InfoSystem\bin\Debug\MySql.Data.dll
+C:\Users\jesto\source\repos\Books_InfoSystem\Books_InfoSystem\bin\Debug\System.Memory.dll
+C:\Users\jesto\source\repos\Books_InfoSystem\Books_InfoSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jesto\source\repos\Books_InfoSystem\Books_InfoSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jesto\source\repos\Books_InfoSystem\Books_InfoSystem\bin\Debug\System.Buffers.dll
+C:\Users\jesto\source\repos\Books_InfoSystem\Books_InfoSystem\bin\Debug\MySql.Data.xml
+C:\Users\jesto\source\repos\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.csproj.CopyComplete
+C:\Users\jesto\source\repos\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.Profile.resources
+C:\Users\jesto\source\repos\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.AdminDashboard.resources
+C:\Users\jesto\source\repos\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.resetPassword.resources
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\bin\Debug\Books_InfoSystem.exe.config
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\bin\Debug\Books_InfoSystem.exe
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\bin\Debug\Books_InfoSystem.pdb
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\bin\Debug\EPPlus.dll
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\bin\Debug\EPPlus.Interfaces.dll
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\bin\Debug\EPPlus.System.Drawing.dll
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\bin\Debug\System.Buffers.dll
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\bin\Debug\System.ComponentModel.Annotations.dll
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\bin\Debug\System.Memory.dll
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\bin\Debug\System.Numerics.Vectors.dll
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\bin\Debug\EPPlus.xml
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\bin\Debug\System.Buffers.xml
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\bin\Debug\System.Memory.xml
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\bin\Debug\System.Numerics.Vectors.xml
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.csproj.AssemblyReference.cache
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.AdminDashboard.resources
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.Author.resources
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.Dashboard.resources
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.Genre.resources
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.LogIn.resources
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.Profile.resources
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.Properties.Resources.resources
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.resetPassword.resources
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.SignUp.resources
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.csproj.GenerateResource.cache
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.csproj.CoreCompileInputs.cache
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.csproj.CopyComplete
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.exe
+F:\VisualStudio2022 Repository\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.pdb
+C:\Users\Dell\Downloads\Files-20240412T093632Z-001\Files\Books_InfoSystem\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\Files-20240412T093632Z-001\Files\Books_InfoSystem\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.exe
+C:\Users\Dell\Downloads\Files-20240412T093632Z-001\Files\Books_InfoSystem\Books_InfoSystem\Books_InfoSystem\obj\Debug\Books_InfoSystem.pdb
